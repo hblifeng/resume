@@ -1,0 +1,92 @@
+/*导航栏*/
+.navbar-nav li{
+	position: relative;
+}
+.navbar-nav li a{
+	cursor: pointer;
+	color: red;
+}
+.navbar-nav li span{
+	position: absolute;
+	bottom: 2px;
+	left: 0px;
+	width: 0px;
+	height: 2px;
+	background: gray;
+}
+.navbar{
+	margin-bottom: 0;
+}
+.icon img{
+	border-radius: 50%;
+}
+
+.page1 .container,.page2 .container{
+	text-align: center;
+}
+/*.container{
+	text-align: center;;
+}*/
+ hr{
+	width:60%;
+	border-top-color: grey;
+}
+.page1 .container{
+	padding-top:4%;
+}
+
+
+
+/*page2*/
+
+.page2_content table{
+	margin: 10px auto;
+	text-align: left;
+	
+}
+.page2_content td{
+	padding:1em 3em;
+	font-size: 1.5em;
+}
+
+
+/*page3*/
+.skill{
+	width:100%;
+}
+.skill_name{
+	width:20%;
+}
+.skill_much{
+	width:80%;
+}
+.much {
+	width:100%;
+}
+.skill td{
+	line-height: 100%;
+}
+.person-skill{
+	text-align: center;
+}
+
+.much{
+	margin-top:1.3em;
+/*	width:100%;*/
+	height:1.5em;
+}
+#whatICan li{
+	padding:1em 0;
+}
+#whatICan .title{
+	text-align: center;
+}
+
+/*page4*/
+.page4 .row{
+	margin-bottom: 1em;
+}
+
+.page4 img{
+	max-width: 150px;
+}

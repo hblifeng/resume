@@ -1,0 +1,26 @@
+[
+	{
+		"name":"李锋",
+		"sex":"男",
+		"age":"23",
+		"school":"华东交通大学",
+		"education":"本科",
+		"english":"6",
+		"tel":"15180177860",
+		"email":"hb_lifeng@163.com",
+		"moto1":"听从你内心的声音",
+		"moto2":"FOLLOW YOUR INNER VOICE",
+		"job":"WEB前端工程师",
+		"brief":"我是一个认真执着、个性偏于稳重、慢热型的人。我是真的爱前端。希望找到一个可以发挥我的特长并且让我继续成长的地方。",
+		"iCan1":"了解W3C规范，可以写语义化的HTML、模块化的css、完成常见的自适应、响应式网站布局",
+		"iCan2":"熟悉常见过渡、3D、变换、关键帧等css3新特性",
+		"iCan3":"熟悉JavaScript，可以脱离框架使用原生js进行开发",
+		"iCan4":"了解面向对象的js，了解原生的DOM/BOM、了解相关的兼容性",
+		"iCan5":"了解ajax的利弊、兼容、获取和使用，以及可以用原生js编写ajax函数；可以基于ajax实现异步加载",
+		"iCan6":"了解jQuery/bootstrap/node.js'。可以使用jquery实现页面动画与交互；可以使用bootstrap框架搭建响应式页面；可以利用node.js API搭建简单的WebSever",
+		"iCan7":"了解常见的ps操作，可以熟练的对设计稿进行切图"
+	}
+]
+
+		
+
